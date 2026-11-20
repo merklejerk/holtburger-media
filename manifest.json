@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": "3d/movement-keys-v1.svg",
+      "sha256": "89d9a1a270c763efce750af66f15ff23afbe5bf6ca20d02aa69f03da18247294",
+      "bytes": 2969,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "path": "3d/posture-cycle-v1.svg",
+      "sha256": "ab4376411fc3743ba423b7d5bb83ea5581084b16658deb567b19d089911314c9",
+      "bytes": 1634,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "path": "3d/smart-tab-v1.svg",
+      "sha256": "bc09dea66f84c8115bab4c1126f354849f9084d0c26ca2513f57f8a48fb22b2f",
+      "bytes": 1453,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "path": "checks/delivery-v1.mp4",
+      "sha256": "49845446e941e44e63b957988095c9a76e70b722379676d39f11a72ae8c9e383",
+      "bytes": 23357,
+      "contentType": "video/mp4"
+    },
+    {
+      "path": "checks/delivery-v1.svg",
+      "sha256": "6909f34306f0a34d80f412a74360fb4d8840d5f12dc01a1a0a981e1a12211be9",
+      "bytes": 452,
+      "contentType": "image/svg+xml"
+    }
+  ]
+}
